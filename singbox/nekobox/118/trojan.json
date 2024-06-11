@@ -114,7 +114,8 @@
                 "SE🇸🇪",
                 "IE🇮🇪",
                 "GB🇬🇧",
-                "US🇺🇸"
+                "US🇺🇸",
+                "SG🇸🇬"
             ]
         },
         {
@@ -130,7 +131,7 @@
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -184,8 +185,17 @@
             "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "SG🇸🇬",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -381,11 +391,11 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "198.41.220.12",
-            "server_port": 443,
-            "password": "242a3d8eee5e4ed1a6bfa4141d549a25",
+            "server": "168.138.171.185",
+            "server_port": 8443,
+            "password": "NISHIKUITAN222",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -393,7 +403,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "jobscareerforlawyers.com",
+                "server_name": "t111.ylks.link",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -402,9 +412,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/6b777a91",
+                "path": "\/",
                 "headers": {
-                    "Host": "jobscareerforlawyers.com"
+                    "Host": "t111.ylks.link"
                 }
             }
         },
