@@ -124,15 +124,12 @@
                 "رایگان | TROJAN | @oneclickvpnkeys | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CZ🇨🇿 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣6️⃣"
             ]
         },
         {
@@ -157,15 +154,12 @@
                 "رایگان | TROJAN | @oneclickvpnkeys | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CZ🇨🇿 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -550,9 +544,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "51.158.217.161",
+            "server": "138.199.57.185",
             "server_port": 43118,
             "password": "ypDt8RkT7J",
             "multiplex": {
@@ -562,7 +556,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tewmk.phooeyunfold.com",
+                "server_name": "eiety.phooeyunfold.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -571,9 +565,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣2️⃣",
             "type": "trojan",
-            "server": "151.115.83.239",
+            "server": "62.210.82.54",
             "server_port": 43118,
             "password": "ypDt8RkT7J",
             "multiplex": {
@@ -583,7 +577,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "egajz.phooeyunfold.com",
+                "server_name": "wuxgk.phooeyunfold.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -592,9 +586,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | PL🇵🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣3️⃣",
             "type": "trojan",
-            "server": "151.115.83.178",
+            "server": "62.210.83.57",
             "server_port": 43118,
             "password": "ypDt8RkT7J",
             "multiplex": {
@@ -604,7 +598,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "eimna.phooeyunfold.com",
+                "server_name": "ruvil.phooeyunfold.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -613,9 +607,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
             "type": "trojan",
-            "server": "121.127.46.131",
+            "server": "51.159.102.179",
             "server_port": 43118,
             "password": "ypDt8RkT7J",
             "multiplex": {
@@ -625,7 +619,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tpmrt.phooeyunfold.com",
+                "server_name": "tpzmg.phooeyunfold.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -634,9 +628,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
             "type": "trojan",
-            "server": "207.211.215.169",
+            "server": "213.186.36.123",
             "server_port": 43118,
             "password": "ypDt8RkT7J",
             "multiplex": {
@@ -646,7 +640,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tpmwf.phooeyunfold.com",
+                "server_name": "wylbe.phooeyunfold.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -655,9 +649,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣6️⃣",
             "type": "trojan",
-            "server": "89.187.181.172",
+            "server": "169.150.206.186",
             "server_port": 43118,
             "password": "ypDt8RkT7J",
             "multiplex": {
@@ -667,70 +661,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "egcmi.phooeyunfold.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
-            "type": "trojan",
-            "server": "185.180.13.70",
-            "server_port": 43118,
-            "password": "ypDt8RkT7J",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "earya.phooeyunfold.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | FR🇫🇷 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "15.236.163.110",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "3.73.251.162",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "tpmem.phooeyunfold.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
