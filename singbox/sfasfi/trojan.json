@@ -111,7 +111,6 @@
                 "FR🇫🇷",
                 "DE🇩🇪",
                 "ES🇪🇸",
-                "SG🇸🇬",
                 "TW🇹🇼"
             ]
         },
@@ -127,11 +126,7 @@
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | ES🇪🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣6️⃣"
+                "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -191,23 +186,10 @@
             "tolerance": 50
         },
         {
-            "tag": "SG🇸🇬",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣5️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "TW🇹🇼",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣6️⃣"
+                "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -382,119 +364,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "47.236.146.249",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "t555.ylks.link",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "t555.ylks.link"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣3️⃣",
-            "type": "trojan",
-            "server": "8.219.170.232",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "t555.ylks.link",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "t555.ylks.link"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣4️⃣",
-            "type": "trojan",
-            "server": "47.236.145.85",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "t555.ylks.link",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "t555.ylks.link"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | SG🇸🇬 | 0️⃣5️⃣",
-            "type": "trojan",
-            "server": "8.222.204.128",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "t555.ylks.link",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "t555.ylks.link"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @oneclickvpnkeys | TW🇹🇼 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "211.72.156.17",
             "server_port": 23555,

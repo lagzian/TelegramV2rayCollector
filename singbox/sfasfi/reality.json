@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "US🇺🇸",
                 "KR🇰🇷"
             ]
         },
@@ -114,18 +113,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | REALITY | @FreakConfig | KR🇰🇷 | 0️⃣3️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "US🇺🇸",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -140,34 +128,6 @@
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
-        },
-        {
-            "tag": "رایگان | REALITY | @ConfigsHUB | US🇺🇸 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "us1.x2fast.net",
-            "server_port": 8443,
-            "uuid": "e8410a35-9b9c-4312-8f67-240b160855dc",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "172.67.173.11",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "t_XMV-WyVYbcDCIgiSSCi3bSPDdW1rqKFa9ZoI8b4RA",
-                    "short_id": "dbdf78b1df376900"
-                }
-            }
         },
         {
             "tag": "رایگان | REALITY | @FreakConfig | KR🇰🇷 | 0️⃣3️⃣",
