@@ -108,7 +108,6 @@
                 "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
             ]
@@ -120,7 +119,6 @@
                 "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
             ],
@@ -217,34 +215,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "172.104.225.11",
-            "server_port": 443,
-            "uuid": "ede091df-b261-41e2-99ef-731e084faeed",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "keycdn.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "8UXHLrrHsmMnLc01WOM_rIFFd4XM_DXcwBEdFyCCZFY",
-                    "short_id": "3cc0e016"
-                }
             }
         },
         {
