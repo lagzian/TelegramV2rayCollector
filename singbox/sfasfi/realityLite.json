@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
-                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
             ]
@@ -120,12 +120,12 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣2️⃣",
-                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
             ],
@@ -134,7 +134,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @customv2ray | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "159.69.114.213",
             "server_port": 8443,
@@ -218,7 +218,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "91.107.242.3",
             "server_port": 443,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | EE🇪🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "95.164.8.185",
             "server_port": 8080,
@@ -274,7 +274,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
             "type": "vless",
             "server": "15.236.34.57",
             "server_port": 123,
