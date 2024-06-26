@@ -107,6 +107,9 @@
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣3️⃣",
                 "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ConfigsHUB | NO🇳🇴 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣"
@@ -118,6 +121,9 @@
             "outbounds": [
                 "رایگان | REALITY | @vless_vmess | KR🇰🇷 | 0️⃣3️⃣",
                 "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @ConfigsHUB | NO🇳🇴 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | DE🇩🇪 | 0️⃣2️⃣"
@@ -179,6 +185,90 @@
                     "enabled": true,
                     "public_key": "UQcENeMy3VVqYDJIPm68FVHz9r2lC34ydM5chOKa5RU",
                     "short_id": "18cada"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ConfigsHUB | NO🇳🇴 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "185.125.171.13",
+            "server_port": 443,
+            "uuid": "a09373e2-e120-457d-9ec9-ea7fe8bedb52",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "partner.g2.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "5.75.215.23",
+            "server_port": 52457,
+            "uuid": "4958f076-45ce-4781-b80d-3c3a98e43660",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.zdnet.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J5M-6fOJWruZ5xj3C9NxZyd-TGvkNwg1YJ4j2HObUkw",
+                    "short_id": "a94839"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣7️⃣",
+            "type": "vless",
+            "server": "141.95.75.212",
+            "server_port": 443,
+            "uuid": "200e059b-51ec-4825-8e95-5e49db5d22ad",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "analytics.google.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU",
+                    "short_id": "c741ad33"
                 }
             }
         },
