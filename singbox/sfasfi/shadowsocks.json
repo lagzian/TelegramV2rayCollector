@@ -107,7 +107,6 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "CA🇨🇦",
-                "GB🇬🇧",
                 "US🇺🇸",
                 "AE🇦🇪",
                 "PL🇵🇱",
@@ -121,8 +120,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | SS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
@@ -144,17 +143,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | SS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "GB🇬🇧",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -236,20 +226,20 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "23.162.200.215",
-            "server_port": 9090,
+            "server": "38.111.114.133",
+            "server_port": 7307,
             "method": "aes-256-gcm",
-            "password": "Y6R9pAtvxxzmGC",
+            "password": "FoOiGlkAA9yPEGP",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
             "type": "shadowsocks",
-            "server": "145.239.6.202",
-            "server_port": 5000,
+            "server": "23.162.200.215",
+            "server_port": 9090,
             "method": "aes-256-gcm",
             "password": "Y6R9pAtvxxzmGC",
             "plugin": "",
