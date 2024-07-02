@@ -552,9 +552,9 @@
         {
             "tag": "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "173.245.59.8",
-            "server_port": 443,
-            "uuid": "1052f24e-7b09-45eb-b0c5-d858eb124192",
+            "server": "104.19.45.11",
+            "server_port": 8443,
+            "uuid": "39135a39-e6ca-43df-a360-d859eea58d86",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -567,7 +567,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "77h2quiet-dream-5c34.foratay741.workers.dev",
+                "server_name": "hk01.leleles.us",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -577,9 +577,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/glweidf.cfd\/linkws",
+                "path": "\/",
                 "headers": {
-                    "Host": "77h2quiet-dream-5c34.foratay741.workers.dev"
+                    "Host": "hk01.leleles.us"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
