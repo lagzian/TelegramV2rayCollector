@@ -120,8 +120,6 @@
                 "رایگان | VMESS | @ShadowProxy66 | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
@@ -143,7 +141,7 @@
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | DE🇩🇪 | 0️⃣7️⃣"
+                "رایگان | VMESS | @ROMAX_VPN | NL🇳🇱 | 0️⃣7️⃣"
             ]
         },
         {
@@ -165,8 +163,6 @@
                 "رایگان | VMESS | @ShadowProxy66 | FR🇫🇷 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
@@ -188,7 +184,7 @@
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | VMESS | @ROMAX_VPN | DE🇩🇪 | 0️⃣7️⃣"
+                "رایگان | VMESS | @ROMAX_VPN | NL🇳🇱 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -632,9 +628,9 @@
         {
             "tag": "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "zula.ir",
+            "server": "2.189.59.2",
             "server_port": 443,
-            "uuid": "950db6aa-4926-4616-816e-ec0312dcb87b",
+            "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -647,7 +643,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "jahfkjha.cfd",
+                "server_name": "pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -657,65 +653,12 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/Telegram\/XV2ray",
                 "headers": {
-                    "Host": "jahfkjha.cfd"
+                    "Host": "germany-linkws.pages.dev"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣2️⃣",
-            "type": "vmess",
-            "server": "mAIl.IRansPEeD.ShoP",
-            "server_port": 443,
-            "uuid": "00aa4fc2-f7ec-482b-b71a-2fd071e0dc60",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "M1.IrANSPEed.sHOP",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/QUeMEWutZAndOVVMwhRJqh28",
-                "headers": {
-                    "Host": "m1.iranspeed.shop"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣4️⃣",
-            "type": "vmess",
-            "server": "pro.iranspeed.shop",
-            "server_port": 80,
-            "uuid": "00aa4fc2-f7ec-482b-b71a-2fd071e0dc60",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -1347,7 +1290,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ROMAX_VPN | DE🇩🇪 | 0️⃣7️⃣",
+            "tag": "رایگان | VMESS | @ROMAX_VPN | NL🇳🇱 | 0️⃣7️⃣",
             "type": "vmess",
             "server": "172.67.74.4",
             "server_port": 443,
