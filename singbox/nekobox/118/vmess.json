@@ -114,7 +114,6 @@
                 "DE🇩🇪",
                 "PT🇵🇹",
                 "GB🇬🇧",
-                "BE🇧🇪",
                 "SE🇸🇪"
             ]
         },
@@ -140,7 +139,7 @@
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VMESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
@@ -165,7 +164,6 @@
                 "رایگان | VMESS | @ROMAX_VPN | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | VMESS | @prrofile_purple | PT🇵🇹 | 0️⃣1️⃣",
                 "رایگان | VMESS | @prrofile_purple | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | VMESS | @DailyV2RY | BE🇧🇪 | 0️⃣5️⃣",
                 "رایگان | VMESS | @FreakConfig | SE🇸🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -194,7 +192,7 @@
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VMESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
@@ -246,16 +244,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @prrofile_purple | GB🇬🇧 | 0️⃣3️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "BE🇧🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VMESS | @DailyV2RY | BE🇧🇪 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -822,7 +810,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VMESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "speed.cloudflare.com",
             "server_port": 80,
@@ -850,9 +838,9 @@
         {
             "tag": "رایگان | VMESS | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "172.67.175.56",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+            "server": "104.19.47.18",
+            "server_port": 8443,
+            "uuid": "39135a39-e6ca-43df-a360-d859eea58d86",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -865,7 +853,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "obdii.cfd",
+                "server_name": "hk01.linkitnow.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -875,9 +863,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/",
                 "headers": {
-                    "Host": "obdii.cfd"
+                    "Host": "hk01.linkitnow.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1567,32 +1555,6 @@
                 "path": "\/vmess",
                 "headers": {
                     "Host": "Uk2.vmess.site."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @DailyV2RY | BE🇧🇪 | 0️⃣5️⃣",
-            "type": "vmess",
-            "server": "188.114.97.2",
-            "server_port": 80,
-            "uuid": "c53b8706-7a23-486c-89c5-4dac1209ef11",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess",
-                "headers": {
-                    "Host": "Be2.vmess.site."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
