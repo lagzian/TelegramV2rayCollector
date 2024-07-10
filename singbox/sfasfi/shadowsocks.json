@@ -114,6 +114,7 @@
                 "RU🇷🇺",
                 "ES🇪🇸",
                 "DE🇩🇪",
+                "AT🇦🇹",
                 "NL🇳🇱"
             ]
         },
@@ -131,7 +132,8 @@
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | ES🇪🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣5️⃣"
+                "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣4️⃣",
+                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -220,10 +222,20 @@
             "tolerance": 50
         },
         {
+            "tag": "AT🇦🇹",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣4️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣5️⃣"
+                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -330,7 +342,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣4️⃣",
+            "type": "shadowsocks",
+            "server": "95.164.9.144",
+            "server_port": 2927,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ug4Fu79SEREdFGlt2sUyT4",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "45.158.171.131",
             "server_port": 8080,
