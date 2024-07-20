@@ -110,59 +110,59 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣2️⃣"
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣2️⃣"
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "173.245.49.20",
             "server_port": 2096,
@@ -190,7 +190,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "zula.ir",
             "server_port": 443,
@@ -218,7 +218,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "www.gov.se",
             "server_port": 8443,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "cf.090227.xyz",
             "server_port": 443,
@@ -274,7 +274,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -302,7 +302,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "www.visa.com.sg",
             "server_port": 2053,
@@ -330,7 +330,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣7️⃣",
             "type": "trojan",
             "server": "www.visa.com.sg",
             "server_port": 8443,
@@ -358,7 +358,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "3.126.19.87",
             "server_port": 22222,
@@ -379,7 +379,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "3.73.221.30",
             "server_port": 22222,
@@ -400,7 +400,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "16.16.245.173",
             "server_port": 22222,
@@ -421,7 +421,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "51.20.158.11",
             "server_port": 22222,
@@ -442,7 +442,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "79.125.61.193",
             "server_port": 22222,
@@ -463,7 +463,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "54.170.239.210",
             "server_port": 22222,
@@ -484,7 +484,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
             "type": "trojan",
             "server": "13.41.144.75",
             "server_port": 22222,
@@ -505,7 +505,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "3.134.150.64",
             "server_port": 22222,
@@ -526,7 +526,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "3.21.109.143",
             "server_port": 22222,
@@ -547,7 +547,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "15.156.2.213",
             "server_port": 22222,
@@ -568,7 +568,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "15.156.233.194",
             "server_port": 22222,
@@ -589,7 +589,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "icook.hk",
             "server_port": 443,
@@ -617,7 +617,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "zula.ir",
             "server_port": 80,
