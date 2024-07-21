@@ -107,10 +107,10 @@
                 "URL-TEST | رایگان",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
@@ -123,7 +123,8 @@
                 "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣"
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣"
             ]
         },
         {
@@ -132,10 +133,10 @@
             "outbounds": [
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
@@ -148,7 +149,8 @@
                 "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣"
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -211,7 +213,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "www.gov.se",
             "server_port": 8443,
@@ -295,7 +297,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "www.visa.com.sg",
             "server_port": 2053,
@@ -600,6 +602,18 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "df.xiguajiasu.xyz",
+            "server_port": 46002,
+            "password": "4ea1d07c-41c2-42b5-954d-414fee051856",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
