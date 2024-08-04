@@ -130,6 +130,7 @@
                 "رایگان | SS | @ROMAX_VPN | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣4️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣7️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
@@ -176,7 +177,8 @@
             "tag": "AT🇦🇹",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣4️⃣"
+                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣4️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -280,6 +282,16 @@
             "server_port": 61992,
             "method": "chacha20-ietf-poly1305",
             "password": "PToksYwBeZWcIeKXP6nnU7",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣7️⃣",
+            "type": "shadowsocks",
+            "server": "95.164.9.144",
+            "server_port": 2927,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ug4Fu79SEREdFGlt2sUyT4",
             "plugin": "",
             "plugin_opts": ""
         },
