@@ -321,9 +321,9 @@
                 "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣6️⃣",
@@ -384,7 +384,6 @@
                 "رایگان | VLESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | LT🇱🇹 | 0️⃣4️⃣",
                 "رایگان | VLESS | @vmessorg | IT🇮🇹 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxystore11 | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @FAKEOFTVC | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ROMAX_VPN | KH🇰🇭 | 0️⃣1️⃣"
             ],
@@ -628,9 +627,9 @@
                 "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣6️⃣",
@@ -718,7 +717,6 @@
             "tag": "IR🇮🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @proxystore11 | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @FAKEOFTVC | IR🇮🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -5363,7 +5361,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5377,7 +5375,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -5400,7 +5398,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -6845,20 +6843,6 @@
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @proxystore11 | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "srv7a.f2hub.ir",
-            "server_port": 55310,
-            "uuid": "7d13a8f0-d3d4-4062-b541-fdf732f6bb79",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
