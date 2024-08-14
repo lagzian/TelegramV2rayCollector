@@ -118,7 +118,7 @@
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣5️⃣"
@@ -136,7 +136,7 @@
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣5️⃣"
@@ -295,7 +295,7 @@
         {
             "tag": "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "54.220.30.226",
+            "server": "52.209.142.161",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -314,9 +314,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣",
             "type": "trojan",
-            "server": "52.209.142.161",
+            "server": "18.169.101.247",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -337,7 +337,7 @@
         {
             "tag": "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣3️⃣",
             "type": "trojan",
-            "server": "18.169.101.247",
+            "server": "35.176.238.211",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
