@@ -113,7 +113,6 @@
                 "PL🇵🇱",
                 "RU🇷🇺",
                 "DE🇩🇪",
-                "AE🇦🇪",
                 "AT🇦🇹"
             ]
         },
@@ -133,8 +132,6 @@
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
                 "رایگان | SS | @ROMAX_VPN | AT🇦🇹 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -211,17 +208,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "AE🇦🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -354,26 +340,6 @@
             "server_port": 8882,
             "method": "aes-256-gcm",
             "password": "kDWvXYZoTBcGkC4",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
             "plugin": "",
             "plugin_opts": ""
         },
