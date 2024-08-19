@@ -122,7 +122,11 @@
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣1️⃣"
+                "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @proxy_mtm | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
+                "رایگان | SS | @ROMAX_VPN | AT🇦🇹 | 0️⃣1️⃣"
             ]
         },
         {
@@ -141,7 +145,11 @@
                 "رایگان | SS | @FAKEOFTVC | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣1️⃣"
+                "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @proxy_mtm | PL🇵🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
+                "رایگان | SS | @ROMAX_VPN | AT🇦🇹 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -274,6 +282,46 @@
             "server_port": 60422,
             "method": "chacha20-ietf-poly1305",
             "password": "cq079FNA6HLc7gnfGZIHW9",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | PL🇵🇱 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "95.164.35.90",
+            "server_port": 8388,
+            "method": "chacha20-ietf-poly1305",
+            "password": "MDJhZGE5",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | AE🇦🇪 | 0️⃣7️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @ROMAX_VPN | AT🇦🇹 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "95.164.9.144",
+            "server_port": 2927,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ug4Fu79SEREdFGlt2sUyT4",
             "plugin": "",
             "plugin_opts": ""
         },
