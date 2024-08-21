@@ -117,6 +117,7 @@
                 "US🇺🇸",
                 "LT🇱🇹",
                 "IR🇮🇷",
+                "KR🇰🇷",
                 "KH🇰🇭"
             ]
         },
@@ -371,6 +372,7 @@
                 "رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | LT🇱🇹 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ServerNett | IR🇮🇷 | 0️⃣3️⃣",
+                "رایگان | VLESS | @VmessProtocol | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ROMAX_VPN | KH🇰🇭 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -682,6 +684,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VLESS | @ServerNett | IR🇮🇷 | 0️⃣3️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "KR🇰🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | VLESS | @VmessProtocol | KR🇰🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -1735,7 +1747,7 @@
             "type": "vless",
             "server": "185.146.173.252",
             "server_port": 8080,
-            "uuid": "230897ef-fb28-4881-be0d-01f5bfc882dd",
+            "uuid": "e260cbc6-7b84-4b8a-9442-dbe6f9ccd1ff",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1758,7 +1770,7 @@
             "type": "vless",
             "server": "185.146.173.252",
             "server_port": 8080,
-            "uuid": "48514232-5325-46a0-84af-a0db683a5bc9",
+            "uuid": "b7be6e8f-e2a2-494d-8686-a9535dc2f9a2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1781,7 +1793,7 @@
             "type": "vless",
             "server": "185.146.173.252",
             "server_port": 8080,
-            "uuid": "cf5f4c66-e98b-40dd-8ad7-228186f8fe35",
+            "uuid": "230897ef-fb28-4881-be0d-01f5bfc882dd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3628,7 +3640,7 @@
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
-            "uuid": "b7be6e8f-e2a2-494d-8686-a9535dc2f9a2",
+            "uuid": "390559e3-4c68-4703-be4b-112270e3059d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3651,7 +3663,7 @@
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
-            "uuid": "230897ef-fb28-4881-be0d-01f5bfc882dd",
+            "uuid": "e260cbc6-7b84-4b8a-9442-dbe6f9ccd1ff",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3674,7 +3686,7 @@
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
-            "uuid": "48514232-5325-46a0-84af-a0db683a5bc9",
+            "uuid": "b7be6e8f-e2a2-494d-8686-a9535dc2f9a2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3697,7 +3709,7 @@
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
-            "uuid": "cf5f4c66-e98b-40dd-8ad7-228186f8fe35",
+            "uuid": "230897ef-fb28-4881-be0d-01f5bfc882dd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6155,6 +6167,38 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @VmessProtocol | KR🇰🇷 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "140.238.8.194",
+            "server_port": 15800,
+            "uuid": "d7dd3a35-b68b-4992-b319-a85b8a1fc8e5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "dns68.putata.eu.org",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "dns68.putata.eu.org"
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
