@@ -111,11 +111,11 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @EliV2ray | ES🇪🇸 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | REALITY | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
-                "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣"
             ]
         },
         {
@@ -123,11 +123,11 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @EliV2ray | ES🇪🇸 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | REALITY | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
-                "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -162,7 +162,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -176,7 +176,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
             "type": "vless",
             "server": "45.67.32.147",
             "server_port": 14990,
@@ -204,7 +204,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣4️⃣",
             "type": "vless",
             "server": "77.221.143.183",
             "server_port": 33000,
@@ -239,7 +239,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣5️⃣",
             "type": "vless",
             "server": "172.232.38.249",
             "server_port": 12345,
@@ -267,7 +267,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
