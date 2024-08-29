@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ]
@@ -115,7 +115,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ],
@@ -124,7 +124,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "188.245.125.135",
             "server_port": 8443,
