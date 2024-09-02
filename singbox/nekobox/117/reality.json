@@ -112,6 +112,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
+                "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ],
@@ -123,12 +124,41 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
+                "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
+        },
+        {
+            "tag": "رایگان | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "host.codezeep.ir",
+            "server_port": 8443,
+            "uuid": "301b0065-50a2-403b-b353-b8f3c0a30412",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mdundo.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "azNO9Chiekwz7jfxG7G9ClLDL_TN3t8zgUhrhQG8iHI",
+                    "short_id": "cd83fc41afc6"
+                }
+            }
         },
         {
             "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
