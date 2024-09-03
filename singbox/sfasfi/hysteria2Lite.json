@@ -106,25 +106,25 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣"
+                "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣2️⃣",
+                "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣"
+                "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣2️⃣",
+                "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣",
             "type": "hysteria2",
             "server": "free.netmh3.pro",
             "server_port": 443,
@@ -147,7 +147,7 @@
             }
         },
         {
-            "tag": "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣2️⃣",
             "type": "hysteria2",
             "server": "free.netmh3.pro",
             "server_port": 443,
@@ -170,7 +170,7 @@
             }
         },
         {
-            "tag": "رایگان | HY2 | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | HY2 | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
             "type": "hysteria2",
             "server": "free.netmh3.pro",
             "server_port": 443,
