@@ -105,27 +105,27 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣5️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣5️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
             "type": "vless",
             "server": "85.224.36.38",
             "server_port": 443,
@@ -153,7 +153,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
             "type": "vless",
             "server": "185.234.64.35",
             "server_port": 8443,
@@ -181,7 +181,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -195,7 +195,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
