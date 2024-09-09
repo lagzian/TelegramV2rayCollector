@@ -117,6 +117,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
+                "رایگان | REALITY | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ],
@@ -128,12 +129,41 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
+                "رایگان | REALITY | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
+        },
+        {
+            "tag": "رایگان | REALITY | @vpn_xw | DE🇩🇪 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "Mz.ka-zeit.com",
+            "server_port": 443,
+            "uuid": "433b2a7e-2f6c-4b87-98a1-28b4089db678",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "anargift.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mfIe-d5OBkKP0jo_hDjx9RR5Mly14QF36iRxWn_F0HE",
+                    "short_id": ""
+                }
+            }
         },
         {
             "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
