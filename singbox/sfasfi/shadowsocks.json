@@ -107,8 +107,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
-                "NL🇳🇱",
-                "AT🇦🇹"
+                "GB🇬🇧",
+                "AT🇦🇹",
+                "NL🇳🇱"
             ]
         },
         {
@@ -116,16 +117,14 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | SS | @DeamNet_Proxy | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣",
+                "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣3️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣5️⃣",
-                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣6️⃣"
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣6️⃣",
+                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -135,20 +134,17 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣4️⃣"
+                "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "NL🇳🇱",
+            "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @DeamNet_Proxy | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣"
+                "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -170,52 +166,32 @@
             "tolerance": 50
         },
         {
+            "tag": "NL🇳🇱",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "81.19.141.45",
             "server_port": 52873,
             "method": "chacha20-ietf-poly1305",
-            "password": "qide0Ns2AlotHcB9x1Fv2S",
+            "password": "MymbjrM95itscMGOX1x6SC",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "81.19.141.45",
-            "server_port": 52873,
+            "server": "89.185.84.185",
+            "server_port": 12575,
             "method": "chacha20-ietf-poly1305",
-            "password": "oB8XQxI9C0HvBzzlqvxIDa",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣4️⃣",
-            "type": "shadowsocks",
-            "server": "81.19.141.45",
-            "server_port": 52873,
-            "method": "chacha20-ietf-poly1305",
-            "password": "jWKLR1FxHiOliWleUxFnt0",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @DeamNet_Proxy | NL🇳🇱 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "193.29.139.162",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a8bt9fY0QsLS6eLnXUe0Ym",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣",
-            "type": "shadowsocks",
-            "server": "89.23.103.125",
-            "server_port": 42090,
-            "method": "chacha20-ietf-poly1305",
-            "password": "uQS5ntVqC00sSKkeNzUiD3",
+            "password": "JdkppSRNMuKUIbF229zC1e",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -276,6 +252,16 @@
             "server_port": 61992,
             "method": "chacha20-ietf-poly1305",
             "password": "N9humx5dGmjrPv2Lmp0muB",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣",
+            "type": "shadowsocks",
+            "server": "89.23.103.125",
+            "server_port": 42090,
+            "method": "chacha20-ietf-poly1305",
+            "password": "uQS5ntVqC00sSKkeNzUiD3",
             "plugin": "",
             "plugin_opts": ""
         },
