@@ -169,7 +169,6 @@
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
@@ -330,6 +329,7 @@
                 "رایگان | VLESS | @lightning6 | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
@@ -411,7 +411,6 @@
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
@@ -589,7 +588,8 @@
                 "رایگان | VLESS | @lightning6 | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VLESS | @lightning6 | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣2️⃣"
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -2037,29 +2037,6 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "DIGIV2RAY",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/tm-Digiv2-__teldIGIv2__-DIGiv",
-                "headers": {
-                    "Host": "www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -2881,7 +2858,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "1cf9853a-7970-429a-83eb-1b866e2acf99",
+            "uuid": "427093ea-ebac-4d10-a63e-841060a82011",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2913,7 +2890,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "7f9c1f40-023d-49dc-9346-14d096eea7a0",
+            "uuid": "1cf9853a-7970-429a-83eb-1b866e2acf99",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2945,7 +2922,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "c6355c77-0a0b-4e88-a4fe-441ed0c2b59d",
+            "uuid": "7f9c1f40-023d-49dc-9346-14d096eea7a0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2977,7 +2954,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "6463d1a5-d7f2-4fc3-adc9-56b24f3655fa",
+            "uuid": "c6355c77-0a0b-4e88-a4fe-441ed0c2b59d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2998,7 +2975,7 @@
                 "type": "ws",
                 "path": "\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880",
                 "headers": {
-                    "Host": "http.www.speedtest.net.fast.com.unlimiteddev.ir."
+                    "Host": "TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -3009,7 +2986,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "8e2a71d1-8c10-4048-b73d-77fff2ca87d1",
+            "uuid": "6463d1a5-d7f2-4fc3-adc9-56b24f3655fa",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3041,7 +3018,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "d93bc0b4-864a-451a-9169-f31219268a0d",
+            "uuid": "8e2a71d1-8c10-4048-b73d-77fff2ca87d1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3073,7 +3050,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "c00d5cef-08ed-437f-b8af-839dc0e7eb27",
+            "uuid": "d93bc0b4-864a-451a-9169-f31219268a0d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3105,7 +3082,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "586bf834-d300-4494-bb75-6a2e88abe0f8",
+            "uuid": "76f3d262-53d6-4a18-87ec-8b2f12bb91f5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3137,7 +3114,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "e7b9ad16-d9d2-4748-ab84-645bad60fcaf",
+            "uuid": "586bf834-d300-4494-bb75-6a2e88abe0f8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3169,7 +3146,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "cca237b1-928f-4fd8-a663-c58024054bae",
+            "uuid": "e7b9ad16-d9d2-4748-ab84-645bad60fcaf",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3201,7 +3178,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "1be0c95a-8d85-498e-bcae-570db037a180",
+            "uuid": "cca237b1-928f-4fd8-a663-c58024054bae",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3233,7 +3210,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "bf7be102-4828-4eba-99e8-ed4ff0f15f26",
+            "uuid": "1be0c95a-8d85-498e-bcae-570db037a180",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3265,7 +3242,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "8cdd63e5-e5c8-4d31-ae20-521bb9e4e443",
+            "uuid": "bf7be102-4828-4eba-99e8-ed4ff0f15f26",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3297,7 +3274,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "a23dd727-96fd-4778-86d4-0bacd955a4f4",
+            "uuid": "8cdd63e5-e5c8-4d31-ae20-521bb9e4e443",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6361,6 +6338,29 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "DIGIV2RAY",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/tm-Digiv2-__teldIGIv2__-DIGiv",
+                "headers": {
+                    "Host": "www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir."
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
