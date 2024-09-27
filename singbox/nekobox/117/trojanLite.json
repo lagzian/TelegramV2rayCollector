@@ -105,47 +105,45 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "13.39.172.13",
             "server_port": 22222,
@@ -166,7 +164,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "3.78.108.246",
             "server_port": 22222,
@@ -187,7 +185,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "18.199.110.202",
             "server_port": 22222,
@@ -208,7 +206,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "51.20.166.139",
             "server_port": 22222,
@@ -229,7 +227,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "13.53.220.100",
             "server_port": 22222,
@@ -250,7 +248,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "34.252.130.155",
             "server_port": 22222,
@@ -271,7 +269,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
             "type": "trojan",
             "server": "34.251.9.120",
             "server_port": 22222,
@@ -292,28 +290,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "34.230.164.78",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "104.20.19.168",
             "server_port": 2083,
@@ -341,7 +318,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "162.159.138.232",
             "server_port": 8443,
@@ -369,7 +346,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "198.41.220.18",
             "server_port": 443,
@@ -397,7 +374,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "162.159.153.192",
             "server_port": 443,
@@ -425,7 +402,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "172.66.44.131",
             "server_port": 443,
@@ -453,7 +430,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "autotrader.co.uk",
             "server_port": 443,
