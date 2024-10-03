@@ -117,7 +117,7 @@
                 "رایگان | VMESS | @V2rayng_Fast | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @proxystore11 | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
@@ -129,7 +129,7 @@
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @nofiltering2 | CA🇨🇦 | 0️⃣1️⃣"
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
         {
@@ -148,7 +148,7 @@
                 "رایگان | VMESS | @V2rayng_Fast | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @proxystore11 | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
@@ -160,7 +160,7 @@
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @nofiltering2 | CA🇨🇦 | 0️⃣1️⃣"
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -473,7 +473,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | CA🇨🇦 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "[2606:4700:3037::ac43:831a]",
             "server_port": 443,
@@ -806,7 +806,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @nofiltering2 | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "172.67.171.200",
             "server_port": 2096,
