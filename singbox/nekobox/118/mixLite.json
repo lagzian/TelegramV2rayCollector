@@ -318,9 +318,8 @@
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
@@ -541,9 +540,8 @@
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
@@ -2163,7 +2161,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "d8f9bc81-4f33-4bc3-993e-76d0d3249fc5",
+            "uuid": "20cd6da3-f3e7-437f-932b-f5c37ef3d7b4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2186,7 +2184,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "544f56a2-bc5b-4c81-ad65-bcc8c17e8a2b",
+            "uuid": "d8f9bc81-4f33-4bc3-993e-76d0d3249fc5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2209,7 +2207,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "544f56a2-bc5b-4c81-ad65-bcc8c17e8a2b",
+            "uuid": "d8f9bc81-4f33-4bc3-993e-76d0d3249fc5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2232,7 +2230,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "3eb3b7f8-dabc-4738-9ea6-8b56ae7dbd78",
+            "uuid": "544f56a2-bc5b-4c81-ad65-bcc8c17e8a2b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2255,7 +2253,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "3eb3b7f8-dabc-4738-9ea6-8b56ae7dbd78",
+            "uuid": "544f56a2-bc5b-4c81-ad65-bcc8c17e8a2b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2278,7 +2276,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "f39c9c20-38da-41d7-ba2b-cd83ea45e8f8",
+            "uuid": "3eb3b7f8-dabc-4738-9ea6-8b56ae7dbd78",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2301,7 +2299,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "f39c9c20-38da-41d7-ba2b-cd83ea45e8f8",
+            "uuid": "3eb3b7f8-dabc-4738-9ea6-8b56ae7dbd78",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3294,7 +3292,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "755515e1-60a2-4bf8-aec1-ee387357fca1",
+            "uuid": "13aee024-86a7-435e-863f-f5799635e8c0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3326,7 +3324,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "cd26b083-52a2-494b-927a-5811b15697dc",
+            "uuid": "755515e1-60a2-4bf8-aec1-ee387357fca1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3358,7 +3356,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "81ea08b9-a83a-49f0-a4cf-8f0c8bd8e32a",
+            "uuid": "cd26b083-52a2-494b-927a-5811b15697dc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3390,7 +3388,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "0ebea64e-e1f6-461e-a2c7-d78a0569f595",
+            "uuid": "81ea08b9-a83a-49f0-a4cf-8f0c8bd8e32a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3422,7 +3420,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "fa7f1734-b1b1-4b5f-a556-48f635a9fec5",
+            "uuid": "0ebea64e-e1f6-461e-a2c7-d78a0569f595",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3454,7 +3452,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "71f254f6-88dd-4a89-bcd7-8d4dd5885cd3",
+            "uuid": "fa7f1734-b1b1-4b5f-a556-48f635a9fec5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3486,7 +3484,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "3e47ae98-777d-40dc-8fa2-16ad90a6c6f4",
+            "uuid": "71f254f6-88dd-4a89-bcd7-8d4dd5885cd3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6031,28 +6029,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
-            "type": "trojan",
-            "server": "99.81.210.19",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "3.9.224.104",
             "server_port": 22222,
@@ -6073,7 +6050,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "35.177.219.234",
             "server_port": 22222,
