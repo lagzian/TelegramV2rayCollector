@@ -210,6 +210,7 @@
                 "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣",
@@ -306,11 +307,11 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣7️⃣",
+                "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣6️⃣",
                 "رایگان | VLESS | @Good_V2rayy | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣",
@@ -433,6 +434,7 @@
                 "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣",
@@ -529,11 +531,11 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣7️⃣",
+                "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣6️⃣",
                 "رایگان | VLESS | @Good_V2rayy | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣",
@@ -1792,7 +1794,7 @@
                 "type": "ws",
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "Ygvtfruh64.net"
+                    "Host": "Gyjdwkd13.net"
                 },
                 "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1800,6 +1802,61 @@
         },
         {
             "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net.4.K.bahrane.iR."
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "bwdraper.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "bwdraper.faculty.ucdavis.edu",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "Ygvtfruh64.net"
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -1822,7 +1879,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -1854,7 +1911,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1871,61 +1928,6 @@
                 "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
                 "headers": {
                     "Host": "www.speedtest.net.2.C.dnschecker.tecH."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "bwdraper.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bwdraper.faculty.ucdavis.edu",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "Hjgvfcdx64.net"
-                },
-                "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8080",
-                "headers": {
-                    "Host": "www.speedtest.net.C.1.dnschecker.tecH."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1957,7 +1959,7 @@
                 "type": "ws",
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "vutkyfrtu43.net"
+                    "Host": "Hjgvfcdx64.net"
                 },
                 "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -3134,6 +3136,38 @@
         },
         {
             "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "104.17.234.114",
+            "server_port": 443,
+            "uuid": "90a8affd-049f-413c-a468-3bcb9a135078",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "UNLIMITEDDEV.unlimiteddev-vpn.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080",
+                "headers": {
+                    "Host": "UNLIMITEDDEV.unlimiteddev-vpn.com"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -5736,7 +5770,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "get-admin-upanel.poqpoq.cfd",
             "server_port": 8443,
@@ -5768,7 +5802,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "dEbngCbC.kouRdspEed.ir",
             "server_port": 8080,
@@ -5782,7 +5816,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "172.67.160.192",
             "server_port": 8080,
@@ -5796,7 +5830,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "162.251.82.56",
             "server_port": 8080,
@@ -5810,7 +5844,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | SE🇸🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "185.146.173.95",
             "server_port": 2052,
