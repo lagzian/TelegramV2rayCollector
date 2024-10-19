@@ -118,10 +118,9 @@
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @VPNCUSTOMIZE | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
@@ -318,10 +317,9 @@
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @VPNCUSTOMIZE | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
@@ -829,38 +827,6 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "44.216.237.204",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @VPNCUSTOMIZE | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "188.245.58.221",
@@ -893,7 +859,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣1️⃣",
             "type": "vless",
             "server": "199.232.230.133",
             "server_port": 443,
@@ -925,7 +891,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣2️⃣",
             "type": "vless",
             "server": "199.232.230.133",
             "server_port": 443,
