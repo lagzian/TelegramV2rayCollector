@@ -138,8 +138,8 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
@@ -288,11 +288,11 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣1️⃣",
@@ -342,8 +342,8 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
@@ -492,6 +492,7 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
@@ -505,7 +506,6 @@
             "tag": "CA🇨🇦",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣"
             ],
@@ -996,11 +996,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
-            "server": "34.234.168.151",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "server": "zula.ir",
+            "server_port": 2083,
+            "uuid": "81dabced-dd35-445b-83fa-9ee3d786d97c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1010,7 +1010,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "server_name": "Xs.bo3kot.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -1018,19 +1018,17 @@
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
+                "type": "grpc",
+                "service_name": "@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
-            "tag": "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "44.206.30.188",
+            "server": "34.234.168.151",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1421,7 +1419,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
+            "uuid": "6fd5b6b4-86b4-4e59-b0d9-c088009a74a0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1453,7 +1451,7 @@
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 8443,
-            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
+            "uuid": "6fd5b6b4-86b4-4e59-b0d9-c088009a74a0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1485,7 +1483,7 @@
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
-            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
+            "uuid": "6fd5b6b4-86b4-4e59-b0d9-c088009a74a0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1517,7 +1515,7 @@
             "type": "vless",
             "server": "get-admin-upanel.poqpoq.cfd",
             "server_port": 8443,
-            "uuid": "0ce43cab-efab-4a80-a84c-e8aaf5a9cfa8",
+            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1549,7 +1547,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "0ce43cab-efab-4a80-a84c-e8aaf5a9cfa8",
+            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1579,9 +1577,9 @@
         {
             "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
-            "server": "104.18.165.38",
+            "server": "104.17.234.114",
             "server_port": 8443,
-            "uuid": "0ce43cab-efab-4a80-a84c-e8aaf5a9cfa8",
+            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1613,7 +1611,7 @@
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
-            "uuid": "0ce43cab-efab-4a80-a84c-e8aaf5a9cfa8",
+            "uuid": "dc6059e1-b1d3-433a-9046-ea09e48d1857",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4888,6 +4886,29 @@
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
+            "uuid": "ec3caa8b-df48-497a-889e-d5958e9d3f39",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "Okhala.com"
+                },
+                "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "NUFiLTER.fastly80.hosting-ip.com",
+            "server_port": 80,
             "uuid": "6a653d76-cefb-4822-b419-0731ac15728e",
             "flow": "",
             "packet_encoding": "xudp",
@@ -4907,7 +4928,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "live.skornorth.com",
             "server_port": 443,
@@ -4939,7 +4960,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "adg.news",
             "server_port": 443,
@@ -4971,7 +4992,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -4994,7 +5015,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -5017,7 +5038,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -5120,36 +5141,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "zula.ir",
-            "server_port": 2083,
-            "uuid": "81dabced-dd35-445b-83fa-9ee3d786d97c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Xs.bo3kot.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
