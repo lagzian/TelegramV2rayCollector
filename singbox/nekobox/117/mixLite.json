@@ -301,11 +301,10 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣",
@@ -320,10 +319,10 @@
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣2️⃣"
+                "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
         {
@@ -526,11 +525,10 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣",
@@ -545,10 +543,10 @@
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣2️⃣"
+                "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -5720,30 +5718,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "81.12.27.93",
-            "server_port": 52722,
-            "uuid": "2c3e2c41-4395-4df3-e788-cb9cc82beceb",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "81.12.27.93"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "get-admin-upanel.poqpoq.cfd",
             "server_port": 8443,
@@ -5775,7 +5750,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "dEbngCbC.kouRdspEed.ir",
             "server_port": 8080,
@@ -5789,7 +5764,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "172.67.160.192",
             "server_port": 8080,
@@ -5803,7 +5778,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "162.251.82.56",
             "server_port": 8080,
@@ -6139,6 +6114,18 @@
             }
         },
         {
+            "tag": "رایگان | TROJAN | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "df.xiguajiasu.xyz",
+            "server_port": 46002,
+            "password": "4ea1d07c-41c2-42b5-954d-414fee051856",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "172.67.204.84",
@@ -6201,16 +6188,6 @@
             "server_port": 3389,
             "method": "aes-256-gcm",
             "password": "Y6R9pAtvxxzmGC",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-me.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
             "plugin": "",
             "plugin_opts": ""
         },
